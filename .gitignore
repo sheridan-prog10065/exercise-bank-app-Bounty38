@@ -390,3 +390,6 @@ snapshots-diff/
 temp
 .packages
 /src/Templates/.tempTemplateOutput
+Bank App - Console/BankingData/*.dat
+Bank App - Interactive/Platforms
+Bank App - Interactive/Properties
